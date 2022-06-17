@@ -39,7 +39,7 @@ $("body").on("click", ".page-number", async function(){
     console.log(curPage+' '+newPage);
     $('.page-number[data-page="'+curPage+'"]').removeClass("current");
     $('.page-number[data-page="'+newPage+'"]').addClass("current");
-    await delay(50);
+    await delay(100);
     displayPage(newPage);
 });
 
@@ -253,7 +253,7 @@ async function admin_loadAllProducts(){
             }
         }
     });
-    await delay(30);
+    await delay(100);
     displayPage(curPage);
 }
 
