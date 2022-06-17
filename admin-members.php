@@ -104,8 +104,8 @@
                                 </p>
                             </a>
                         </li>     
-                        <li class="nav-item has-treeview active">
-                            <a href="admin-members.php" class="nav-link">
+                        <li class="nav-item has-treeview">
+                            <a href="admin-members.php" class="nav-link active">
                             &nbsp;
                                 <i class="ion ion-person"></i>
                                 <p>
