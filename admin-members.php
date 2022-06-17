@@ -59,7 +59,7 @@
         <!-- Main Sidebar Container -->
         <aside class="main-sidebar sidebar-dark-primary elevation-4" style="background-color: #071E3D;">
             <!-- Brand Logo -->
-            <a href="admin_home.php" class="brand-link">
+            <a href="admin-home.php" class="brand-link">
                 <img src="dummy/Logo.png" alt="HCMG Logo" class="brand-image img-circle elevation-3">
                 <span class="brand-text font-weight-light">HCMG Admin</span>
             </a>
