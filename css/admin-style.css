@@ -1,0 +1,7 @@
+.hidden{
+    display: none !important;
+}
+
+.nav-link.active{
+    background-color: #278EA5 !important;
+}

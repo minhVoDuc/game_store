@@ -1,0 +1,21 @@
+.content{
+    margin-bottom: 30px !important;
+}
+
+.content h2 {
+    color: #21e6c1;
+    font-weight: 400 !important;
+    margin-bottom: 10px !important;
+}
+
+.content div{
+    color: #fff;
+    text-align: justify;
+}
+
+
+.inner-content{
+    background-color: rgba(0, 0, 0, 0.1);
+    font-size: 11pt;
+    font-weight: 300 !important;
+}
