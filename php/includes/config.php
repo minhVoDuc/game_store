@@ -2,8 +2,8 @@
     date_default_timezone_set('Asia/Ho_Chi_Minh');
     $hostname = "localhost"; 
     $dbname = "hcmg";
-    $username = "metacrektal";
-    $password = "Cktg@2016";
+    $username = "root";
+    $password = "";
     
     //connection to the database
     $db = new PDO('mysql:host='.$hostname.'; dbname='.$dbname.'; charset=utf8',$username, $password);

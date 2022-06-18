@@ -83,7 +83,7 @@
 							</div>
 
 							<div class="container-login100-form-btn m-t-10">
-								<a class="SIU-nav" href="sign-in.html">Already have an account? <span>Sign in here</span></a>
+								<a class="SIU-nav" href="sign-in.php">Already have an account? <span>Sign in here</span></a>
 							</div>
 		
 						</form>
@@ -122,8 +122,8 @@
 										<li><a href="#" class="btn-logOut">Logout</a></li>
 									</div>
 									<div class="panel-guest">
-										<li><a href="sign-in.html">Sign in</li>
-										<li><a href="sign-up.html">Sign up</a></li>
+										<li><a href="sign-in.php">Sign in</li>
+										<li><a href="sign-up.php">Sign up</a></li>
 									</div>
 								</ul>
 							</div> <!-- .widget -->

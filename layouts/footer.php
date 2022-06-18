@@ -29,8 +29,8 @@
                             <li><a href="#" class="btn-logOut">Logout</a></li>
                         </div>
                         <div class="panel-guest">
-                            <li><a href="sign-in.html">Sign in</li>
-                            <li><a href="sign-up.html">Sign up</a></li>
+                            <li><a href="sign-in.php">Sign in</li>
+                            <li><a href="sign-up.php">Sign up</a></li>
                         </div>
                     </ul>
                 </div> <!-- .widget -->

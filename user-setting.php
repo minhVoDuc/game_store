@@ -46,8 +46,8 @@
 						<span id="locator"></span>
 					</div>
 					<div class="panel-guest">
-						<a href="sign-in.html" class="login-button">Sign in</a>
-						<a href="sign-up.html" class="login-button">Sign up</a>
+						<a href="sign-in.php" class="login-button">Sign in</a>
+						<a href="sign-up.php" class="login-button">Sign up</a>
 					</div>
 				</div> <!-- .right-section -->
 
@@ -148,8 +148,8 @@
 									<li><a href="#" class="btn-logOut">Logout</a></li>
 								</div>
 								<div class="panel-guest">
-									<li><a href="sign-in.html">Sign in</li>
-									<li><a href="sign-up.html">Sign up</a></li>
+									<li><a href="sign-in.php">Sign in</li>
+									<li><a href="sign-up.php">Sign up</a></li>
 								</div>
 							</ul>
 						</div> <!-- .widget -->

@@ -17,8 +17,8 @@
                 <span id="locator"></span>
             </div>
             <div class="panel-guest">
-                <a href="sign-in.html" class="login-button">Sign in</a>
-                <a href="sign-up.html" class="login-button">Sign up</a>
+                <a href="sign-in.php" class="login-button">Sign in</a>
+                <a href="sign-up.php" class="login-button">Sign up</a>
             </div>
         </div> <!-- .right-section -->
 
