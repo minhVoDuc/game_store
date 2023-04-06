@@ -14,6 +14,11 @@ sudo yum install httpd
 ```
 wget https://github.com/username/repository/releases/download/v1.0.0/file.tar.gz
 ```
+> If wget hasn't been install yet
+```
+sudo yum update
+sudo yum install wget -y
+```
 3. Extract file and rename it to `game_store`
 ```
 tar -xvf file.tar.gz; mv game_store-1.0.0 game_store
