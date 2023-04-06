@@ -21,7 +21,7 @@ sudo yum install wget -y
 ```
 3. Extract file and rename it to `game_store`
 ```
-tar -xvf file.tar.gz; mv game_store-1.0.0 game_store
+tar -xvf v1.0.0.tar.gz; mv game_store-1.0.0 game_store
 ```
 4. Copy source code to hosting directory (/var/www/)
 ```
