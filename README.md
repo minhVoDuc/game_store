@@ -12,7 +12,7 @@ sudo yum install httpd
 ```
 2. Get web release (current: v1.0.0)
 ```
-wget https://github.com/username/repository/releases/download/v1.0.0/file.tar.gz
+wget https://github.com/minhVoDuc/game_store/archive/refs/tags/v1.0.0.tar.gz
 ```
 > If wget hasn't been install yet
 ```
@@ -61,3 +61,4 @@ sudo systemctl restart httpd
 curl localhost
 ```
 10. Open the other VM and test web hosted on CentOS by typing CentOS ip address that this VM could ping to
+> Note: using *http* instead of *https* 
