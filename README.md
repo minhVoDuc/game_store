@@ -8,13 +8,13 @@ Full source code of web app using for assignment of Cybersecurity - A simple gam
 ## Hosting web using apache 
 1. Install apache server
 ```
-sudo yum install httpd
+sudo yum install httpd -y
 ```
 2. Get web release (current: v1.0.0)
 ```
 wget https://github.com/minhVoDuc/game_store/archive/refs/tags/v1.0.0.tar.gz
 ```
-> If wget hasn't been install yet
+> If `wget` hasn't been install yet
 ```
 sudo yum update
 sudo yum install wget -y
@@ -35,6 +35,10 @@ sudo chmod -R 755 /var/www/game_store
 6. Create a virtual host file for your web site
 ```
 sudo nano /etc/httpd/conf.d/game_store.conf
+```
+> If `nano` hasn't been install yet
+```
+sudo yum install nano -y
 ```
 7. Add those following configs to file created above
 ```
