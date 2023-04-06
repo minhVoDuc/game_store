@@ -64,5 +64,9 @@ sudo systemctl restart httpd
 ```
 curl localhost
 ```
+> If there isn't the homepage of game store, check `php` installed yet? If not:
+```
+sudo yum install php
+```
 10. Open the other VM and test web hosted on CentOS by typing CentOS ip address that this VM could ping to
 > Note: using *http* instead of *https* 
