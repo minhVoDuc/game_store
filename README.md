@@ -25,7 +25,7 @@ tar -xvf file.tar.gz; mv game_store-1.0.0 game_store
 ```
 4. Copy source code to hosting directory (/var/www/)
 ```
-sudo mv game_store /var/www
+sudo cp game_store /var/www
 ```
 5. Change ownership and permission of the directory
 ```
